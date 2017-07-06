@@ -1,0 +1,208 @@
+html {
+  font-family: "Open Sans";
+}
+
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  height: 20px;
+  font-size: 12px;
+}
+
+header {
+  background: url( "http://res.cloudinary.com/chrisestepa/image/upload/v1499179100/city-scape_hrejns.svg");
+  background-size: cover;
+  padding: 0 0 70px 0;
+}
+
+#sign-up {
+  color: white;
+  background: rgb(39, 53, 71);
+  padding: 20px 0 400px 0;
+}
+
+#install {
+  background: url( "http://res.cloudinary.com/chrisestepa/image/upload/v1499179100/forklift_gj1yaa.svg");
+  background-size: 105%;
+  color: white;
+  padding: 75px 0;
+}
+
+#options {
+  background: white;
+  margin: 0 auto;
+  width: 75%;
+  padding: 10px 0;
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+#searchform a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+  font-size: 12px;
+}
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 10px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.top-left {
+  float: left;
+  margin-left: 10px;
+}
+
+.htext {
+  color: white;
+  background: rgb(31, 82, 111)
+  float: left;
+  position: relative;
+  width: 40%;
+  margin: 0 0 0 145px;
+  padding: 40px 0 40px 0;
+}
+
+#or {
+  color: rgba(255,255,255,0.8);
+  font-size: 12px;
+}
+
+.htext button {
+  background: rgb(240, 146, 51);
+}
+
+#searchterm {
+  background: rgb(31, 82, 111);
+  width: 78%;
+  height: 23px;
+  margin: 5px auto;
+  border: 0;
+  color: rgba(255,255,255,0.8);
+}
+
+.city {
+  float: right;
+  width: 100%;
+  position: relative;
+}
+
+#sign-npm, #sign-orgs, #install-npm {
+  border-radius: 150px;
+  font-size: 18px;
+  padding: 12px;
+  border: 0;
+  cursor: pointer;
+}
+
+
+#sign-orgs {
+  background: rgb(203, 56, 55);
+  color: white;
+}
+
+#sign-npm:hover {
+  background: rgb(173, 104, 36);
+}
+
+#sign-orgs:hover {
+  background: rgb(153, 42, 42);
+}
+
+#install-npm:hover {
+  background: rgb(29, 41, 53);
+}
+
+#sign-npm {
+  background: rgb(240, 146, 51);
+  margin-left: 0px;
+  color: white;
+}
+
+#sign-up a {
+  text-decoration: none;
+  color: white;
+}
+
+#sign-up-image {
+  float: left;
+  width: 35%;
+  margin: 50px 0 50px 200px;
+}
+
+#sign-up div {
+  width: 30%;
+  margin: 0 200px 0 0;
+  float: right;
+}
+
+#install div {
+  width: 25%;
+  margin: 0 0 0 200px;
+}
+
+#install input {
+  color: white;
+  background: rgb(49, 68, 88);
+}
+
+.options-header h1 {
+  color: rgb(83, 88, 98);
+  text-align: center;
+  line-height: 0.5px;
+}
+
+.options-header p {
+  color: rgb(135, 145, 156);
+  text-align: center;
+  font-size: 14px;
+}
+
+.options-logos {
+  color: rgb(135, 145, 156);
+  text-align: center;
+}
+
+.options-logos p {
+  padding: 0 73px;
+  font-size: 14px;
+  margin: 0 0 50px 0;
+}
+
+.options-logos a {
+  color: rgb(208, 74, 73);
+  text-decoration: none;
+}
+
+.col {
+  float: left;
+}
+
+.col-3 {
+  width: 33.3%;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.logo {
+  width: 5%;
+  margin: 5px;
+  float: left;
+}
+
+.bear {
+  width: 3%;
+  float: right;
+}
